@@ -88,7 +88,3 @@ Adjust the model path and target word to your trained artifacts.
 ## Contributing
 
 Contributions are welcome — submit issues or PRs with improvements (cleaning, model exporting, evaluation scripts).
-
-## License
-
-No license specified. Add a `LICENSE` file if you intend to open-source this repository.
